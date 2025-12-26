@@ -1,0 +1,7 @@
+{
+  "name": "Saudi Petrol Station Compliance & Management System",
+  "description": "A comprehensive end-to-end management system for Saudi Arabian petrol stations, featuring compliance tracking, staff management, and automated document expiry alerts in English and Arabic.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
